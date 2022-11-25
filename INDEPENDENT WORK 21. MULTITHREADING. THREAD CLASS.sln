@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "INDEPENDENT WORK 21. MULTITHREADING. THREAD CLASS", "INDEPENDENT WORK 21. MULTITHREADING. THREAD CLASS\INDEPENDENT WORK 21. MULTITHREADING. THREAD CLASS.csproj", "{1896DB8B-14E3-4C84-B349-13BA227D1D4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1896DB8B-14E3-4C84-B349-13BA227D1D4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1896DB8B-14E3-4C84-B349-13BA227D1D4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1896DB8B-14E3-4C84-B349-13BA227D1D4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1896DB8B-14E3-4C84-B349-13BA227D1D4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6AD88E5-4387-49D6-8709-33F9A0E64C1F}
+	EndGlobalSection
+EndGlobal
